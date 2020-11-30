@@ -1,0 +1,100 @@
+.home{
+  width: auto;
+  overflow:visible;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+/* Home Banner */
+.homebanner{
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: no-repeat center center ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.homebanner h1,p{
+  
+  color:#ffffff;
+
+}
+.homebanner h1{
+  font-size: 2.5em;
+  padding: 1rem;
+  text-align: center;
+}
+
+
+/* Home Sector */
+.homesector{
+  margin-top: 2vh;
+}
+
+.homesector .probtn {
+  margin-top: 5vh;
+}
+.homesector .probtn h2 {
+  font-weight: 400;
+  font-size: 1.5em;
+  padding: 1vh;
+  
+}
+.homesector .probtn .linktoproworker{
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  padding: 1vh;
+  
+}
+.homesector .probtn a{
+  background-color: #F9F8F6;
+  text-decoration: none;
+  height: 1vh;
+  padding: 2vh 5vh;
+  color: #F99D1C;
+  -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.20);
+-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.20);
+box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.20);
+  
+}
+
+/* Home About */
+
+.homeabout{
+  
+  margin: 2vh 0;
+  padding: 7vh 2vh;
+  background: no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.homeabout .about  {
+  
+}
+.homeabout .about  p{
+  margin-top: 1.5vh;
+  width: 50%;
+  text-align: justify;
+}
+.homeabout .services  {
+margin: 4vh 0;
+}
+
+.homeabout .services ul li {
+  color: #ffffff;
+  margin-left: 2vh;
+  padding-top: .2vh;
+}
+
+.homeabout h1{
+  color: #ffffff;
+
+}

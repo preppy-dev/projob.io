@@ -1,0 +1,33 @@
+.about-us p{
+ color: #231F20;
+ height: 100%;
+}
+.about-us {
+ text-align: center;
+ margin: 1vh 8vh;
+ 
+}
+.about{
+ padding: 2vh;
+ 
+}
+.about p{
+ padding: 1vh;
+ 
+}
+.OBJECTIFs {
+  padding: 2vh;
+ 
+}
+.valors {
+  padding: 2vh;
+ 
+}
+.valors ul li{
+ list-style-type: none;
+ 
+}
+.ordre {
+  padding: 2vh;
+ 
+}
